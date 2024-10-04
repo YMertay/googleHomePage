@@ -1,0 +1,35 @@
+.td1 {
+    background-color: #7EE5DA;
+    width: 37%;
+    text-align: center;
+}
+
+.td2 {
+    background-color: #70CCC2;
+    width: 20%;
+    text-align: center;
+}
+
+
+.td3 {
+    background-color: #62B3AA;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    text-align: -webkit-center;
+    unicode-bidi: isolate;
+}
+
+
+.table {
+    border-collapse: separate;
+    border: 2px;
+    
+}
+
+.head {
+    background-color: #EEEEEE;
+    width: 90%;
+}
